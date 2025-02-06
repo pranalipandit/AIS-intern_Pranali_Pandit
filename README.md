@@ -23,7 +23,7 @@ Task_1
 
 
 Task_2
- 1.If-else
+ 1. If-else
  - (i).grade code
 p=50
 O: p>75
@@ -44,7 +44,7 @@ If
 If else
 If elife else
 
-2.For loop
+2. For loop
  - (i.print odd value between 20 and 80, without using if. Using for loop only.   ii.creat a list of 1 to 20 number using for loop [1,2,3..20]
    iii.create a  list of 20 to 1 value using  for loop (dont Use Reverse) 20,19,18,...3,2,1]     iv.take Cube of odd values between 20 to 40
    v.take 5 freinds name in list name=[a,b,c,d,e]
@@ -54,25 +54,31 @@ expected ans:
     my name is b, my age is 21
   
 
-3.Solve Using if and for loop  and data types methods ; 
+3. Solve Using if and for loop  and data types methods ; 
 - (i.Given a list, write a Python code  to swap first and last element of the list.     ii.write code count lenght of string
    iii.Write a Python program to get the sum of a only non-negative integer. ex, [1,4,-5,-20,10] ans is 15             iv.write code of factorial , ex.ans 6 (3*2*1)
 
-4.While Loop
+4. While Loop
  - (i.odd-even using while loop                                                 ii. using while cteate loop
     iii. creat list 1-20 numbers list using while loop=> [1,2,3... 20]            iv.  creat list 20-1 (revers order) using while loop=> [20,19...1]             v. try with one any eg. break, contnue , pass control statement
 
 
 Task_3
  Used define function 
-  - (1. Write a Python function to find the maximum of from given        2)Write a Python function to sum all the numbers in a list.  Sample List : [8, 2, 3, 0, 7] Expected Output : 20 
+   - (1. Write a Python function to find the maximum of from given        2)Write a Python function to sum all the numbers in a list.  Sample List : [8, 2, 3, 0, 7] Expected Output : 20
+    
      3)Write a Python function that takes a list and returns a new list with distinct elements from the first list.  Sample List : [1,2,3,3,3,3,4,5] Unique List : [1, 2, 3, 4, 5]
-     4)Write a Python function total number of  Combinations. Ex. a,b,c  Ans: 4 : ab,ac,bc,ac 
-     5)Write a Python function total number of  permutation Ex. a,b,c Ans: 6 : ab,ac,ba,bc,ca,cb 
+    
+     4)Write a Python function total number of  Combinations. Ex. a,b,c  Ans: 4 : ab,ac,bc,ac
+    
+     5)Write a Python function total number of  permutation Ex. a,b,c Ans: 6 : ab,ac,ba,bc,ca,cb
+    
      6)Exercise 5: Define a function which counts vowels and consonant in a word.   input :  statistics 
         Expected output : Count of vowel is = 3 Count of consonant is = 7
+    
     7): Define a function that accepts lowercase words and returns uppercase words.      Input:= statistics 
-         Expected output  Result is = STATISTICS 
+         Expected output  Result is = STATISTICS
+    
     8) count lower case and upper case  letter.   Ex : STatiStiCS
           Ans: upper case :5            Lower case: 5
 
