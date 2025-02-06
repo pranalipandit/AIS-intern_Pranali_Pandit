@@ -23,7 +23,7 @@ Task_1
 
 
 Task_2
-- 1.If-else
+ 1.If-else
 i).grade code
 p=50
 O: p>75
@@ -44,29 +44,23 @@ If
 If else
 If elife else
 
-- 2.For loop
-(i.print odd value between 20 and 80, without using if. Using for loop only.   ii.creat a list of 1 to 20 number using for loop [1,2,3..20]
-iii.create a  list of 20 to 1 value using  for loop (dont Use Reverse) 20,19,18,...3,2,1]     iv.take Cube of odd values between 20 to 40
-v.take 5 freinds name in list name=[a,b,c,d,e]
+ 2.For loop
+ - (i.print odd value between 20 and 80, without using if. Using for loop only.   ii.creat a list of 1 to 20 number using for loop [1,2,3..20]
+   iii.create a  list of 20 to 1 value using  for loop (dont Use Reverse) 20,19,18,...3,2,1]     iv.take Cube of odd values between 20 to 40
+   v.take 5 freinds name in list name=[a,b,c,d,e]
 take corresponding ages in second list age = [20,21,23,25,24]
 expected ans:
     my name is a , my age is 20
     my name is b, my age is 21
   
 
-- 3.Solve Using if and for loop  and data types methods ; 
-(i.Given a list, write a Python code  to swap first and last element of the list.     ii.write code count lenght of string
-iii.Write a Python program to get the sum of a only non-negative integer. ex, [1,4,-5,-20,10] ans is 15             iv.write code of factorial , ex.ans 6 (3*2*1)
+ 3.Solve Using if and for loop  and data types methods ; 
+- (i.Given a list, write a Python code  to swap first and last element of the list.     ii.write code count lenght of string
+   iii.Write a Python program to get the sum of a only non-negative integer. ex, [1,4,-5,-20,10] ans is 15             iv.write code of factorial , ex.ans 6 (3*2*1)
 
-- 4.While Loop
-  (i.odd-even using while loop 
-  ii. using while cteate
-* 
-* *
-* * *
-* * * *
-* * * * *
-iii. creat list 1-20 numbers list using while loop=> [1,2,3... 20]            iv.  creat list 20-1 (revers order) using while loop=> [20,19...1]             v. try with one any eg. break, contnue , pass control statement
+ 4.While Loop
+ - (i.odd-even using while loop                                                 ii. using while cteate loop
+    iii. creat list 1-20 numbers list using while loop=> [1,2,3... 20]            iv.  creat list 20-1 (revers order) using while loop=> [20,19...1]             v. try with one any eg. break, contnue , pass control statement
 
 
 Task_3
