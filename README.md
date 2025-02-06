@@ -13,8 +13,8 @@ Task_1
  5. Sets in Python
     - (Discuss set operations (e.g., adding elements, removing elements, union, intersection, difference).Perform methods like add(), remove(), union(), intersection(), difference())
 
- 6. Dictionaries in Python
-   - (Discuss dictionary operations (e.g., accessing key-value pairs, adding, and removing items). Perform methods like get(), keys(), values(), items(), pop(), update())
+ 6.  Dictionaries in Python
+    - (Discuss dictionary operations (e.g., accessing key-value pairs, adding, and removing items). Perform methods like get(), keys(), values(), items(), pop(), update())
 
  7. Common Python Errors
     - (i.IndentationError: Explain the cause and show how to fix it.    ii.NameError: Discuss the cause and provide a fix.    iii.ValueError: Explain what causes this error and how to avoid it.
@@ -65,7 +65,7 @@ expected ans:
 
 Task_3
  Used define function 
-   - (1. Write a Python function to find the maximum of from given        2)Write a Python function to sum all the numbers in a list.  Sample List : [8, 2, 3, 0, 7] Expected Output : 20
+   - (1)Write a Python function to find the maximum of from given        2)Write a Python function to sum all the numbers in a list.  Sample List : [8, 2, 3, 0, 7] Expected Output : 20
     
      3)Write a Python function that takes a list and returns a new list with distinct elements from the first list.  Sample List : [1,2,3,3,3,3,4,5] Unique List : [1, 2, 3, 4, 5]
     
@@ -76,10 +76,10 @@ Task_3
      6)Exercise 5: Define a function which counts vowels and consonant in a word.   input :  statistics 
         Expected output : Count of vowel is = 3 Count of consonant is = 7
     
-    7): Define a function that accepts lowercase words and returns uppercase words.      Input:= statistics 
+    7)Define a function that accepts lowercase words and returns uppercase words.      Input:= statistics 
          Expected output  Result is = STATISTICS
     
-    8) count lower case and upper case  letter.   Ex : STatiStiCS
+    8)count lower case and upper case  letter.   Ex : STatiStiCS
           Ans: upper case :5            Lower case: 5
 
 
