@@ -13,11 +13,38 @@ Task_1
  5. Sets in Python
     - (Discuss set operations (e.g., adding elements, removing elements, union, intersection, difference).Perform methods like add(), remove(), union(), intersection(), difference())
 
- 6.  Dictionaries in Python
-    - (Discuss dictionary operations (e.g., accessing key-value pairs, adding, and removing items). Perform methods like get(), keys(), values(), items(), pop(), update())
+ 6. Dictionaries in Python
+  - (Discuss dictionary operations (e.g., accessing key-value pairs, adding, and removing items). Perform methods like get(), keys(), values(), items(), pop(), update())
 
  7. Common Python Errors
     - (i.IndentationError: Explain the cause and show how to fix it.    ii.NameError: Discuss the cause and provide a fix.    iii.ValueError: Explain what causes this error and how to avoid it.
       iv.TypeError: Describe the reason for this error and how to handle it.    v.IndexError: Discuss the cause of accessing out-of-range indexes.
        vi.KeyError: Explain how accessing non-existent keys causes this error and ways to handle it.
+
+
+Task_2
+1.If-else
+i).grade code
+p=50
+O: p>75
+A : 60 < p>75
+B: 50<p<60
+C: 35<p<50
+fail:p<35
+
+ii)n divisible by 2 or 3
+n=7
+2 divisble, 3 not
+divisible by 2,and 3
+divisible by 3, not 2
+not divisible by 2, and 3
+
+iii) Any other 5 Example each…. 
+If 
+If else
+If elife else
+
+
+Task_3
+
 
